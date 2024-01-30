@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NgonNguCSharp_BaiTapFunctionMethod_ConvertCToF", "NgonNguCSharp_BaiTapFunctionMethod_ConvertCToF\NgonNguCSharp_BaiTapFunctionMethod_ConvertCToF.csproj", "{291CF16E-E58A-4152-98A6-CE60FAB16C0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{291CF16E-E58A-4152-98A6-CE60FAB16C0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{291CF16E-E58A-4152-98A6-CE60FAB16C0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{291CF16E-E58A-4152-98A6-CE60FAB16C0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{291CF16E-E58A-4152-98A6-CE60FAB16C0E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FBD9BF11-569D-4A88-BA5A-28F103893015}
+	EndGlobalSection
+EndGlobal
