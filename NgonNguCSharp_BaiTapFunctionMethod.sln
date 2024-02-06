@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NgonNguCSharp_BaiTapFunctio
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NgonNguCSharp_BaiTapFunctionMethod_DeleteArrayItem", "NgonNguCSharp_BaiTapFunctionMethod_DeleteArrayItem\NgonNguCSharp_BaiTapFunctionMethod_DeleteArrayItem.csproj", "{9087926F-22B5-4CD9-AA86-F925B0650661}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NgonNguCSharp_BaiTapFunctionMethod_Dem1KyTuTrongChuoi", "NgonNguCSharp_BaiTapFunctionMethod_Dem1KyTuTrongChuoi\NgonNguCSharp_BaiTapFunctionMethod_Dem1KyTuTrongChuoi.csproj", "{1B469FE3-56FC-4CD1-9D19-4B1DF75302D6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{9087926F-22B5-4CD9-AA86-F925B0650661}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9087926F-22B5-4CD9-AA86-F925B0650661}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9087926F-22B5-4CD9-AA86-F925B0650661}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B469FE3-56FC-4CD1-9D19-4B1DF75302D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B469FE3-56FC-4CD1-9D19-4B1DF75302D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B469FE3-56FC-4CD1-9D19-4B1DF75302D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B469FE3-56FC-4CD1-9D19-4B1DF75302D6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
